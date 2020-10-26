@@ -2,5 +2,9 @@ test first
 
 Test git diff
 
+<<<<<<< HEAD
 Test git commit --amend
 Test git commit --amend second
+=======
+Test git commit --amend
+>>>>>>> 8f3880ecaa4aa12e8f8c5522b93748f6536a8565
