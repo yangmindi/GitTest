@@ -1,3 +1,5 @@
 test first
 
 Test git diff
+
+Test git commit --amend
