@@ -1,2 +1,6 @@
 hello world
 Git commit --amend test
+
+Git reset test 1
+
+Git push test
