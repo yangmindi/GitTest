@@ -1,1 +1,8 @@
 test first
+
+Test git diff
+
+Test git commit --amend
+Test git commit --amend second
+Test git commit --amend third
+

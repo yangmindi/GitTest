@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 My Project
 hi
 hello
@@ -10,3 +11,11 @@ Test2
 11
 22
 33
+=======
+hello world
+Git commit --amend test
+
+Git reset test 1
+
+Git push test
+>>>>>>> d736d616bccd74ab4bbcae7ea6398f9759645eee
