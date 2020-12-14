@@ -1,2 +1,1 @@
 test git status -s
-test update-index
